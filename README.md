@@ -76,9 +76,11 @@ http://127.0.0.1:8000/api/v1/titles/{title_id}/reviews/
 - Документация к API доступна после запуска проекта по ссылке: http://127.0.0.1:8000/redoc/
 
 ## Технологии
-- [Python 3.7](https://www.python.org/downloads/)
-- [Django 3.2](https://www.djangoproject.com/)
-- 
+-Python
+-Django
+-Django Rest Framework 3.12.4
+-Simple JWT
+-SQLite3
 
 ### Авторы
 - Дмитрий Кобзарь (тимлид), github: https://github.com/Kobzar-sys
